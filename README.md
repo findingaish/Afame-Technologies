@@ -37,8 +37,8 @@ To use this project:
 
 ## Author
 
-[Aishwarya Ranjan]
-[findingaish00@gmail.com]
+-Aishwarya Ranjan
+-findingaish00@gmail.com
 
 ## License
 

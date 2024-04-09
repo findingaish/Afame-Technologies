@@ -37,7 +37,8 @@ To use this project:
 
 ## Author
 
-[Your Name]
+[Aishwarya Ranjan]
+[findingaish00@gmail.com]
 
 ## License
 
